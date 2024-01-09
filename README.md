@@ -2,7 +2,7 @@
 
 **Overview**
 
-Welcome to the Task Manager Web Application! This is a simple yet effective task management tool that allows users to add, edit, delete, and mark tasks as complete. The project is built using HTML, CSS, and JavaScript with a focus on modern features such as ES6, Promises, and Classes.
+Welcome to the Task Manager Web Application! This is a simple yet effective task management tool that allows users to add, edit, delete, and mark tasks as complete. The project is built focusing on modern features such as ES6's, Promises, and Classes.
 
 *I also set up a simple HTTP server in Node.js that serves static files based on the requested URL, handling various file types and responding with appropriate content types(server.js).*
 
