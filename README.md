@@ -24,6 +24,6 @@ Sorting and filtering
 
 **Contributing**
 
-Contributions are welcome(especially for Front End)! 
+Contributions are welcome(especially on FrontEnd)! 
 Feel free to submit issues or pull requests for any improvements or bug fixes.
 
