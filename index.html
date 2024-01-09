@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Task Manager</title>
+</head>
+<body>
+	<div class='container'>
+		<h1>Task Manager</h1>
+		<div class="task-form">
+			<label for='taskName'>Task Name:</label>
+			<input type="text" id='taskName' required>
+			<label for="taskDescribe">Description</label>
+			<textarea id="taskDescribe" rows='4'></textarea>
+			<label for="duedate">Due Date:</label>
+			<input type="date" id="duedate">
+			<button id="addtask">Add Task</button>
+		</div>
+		<div class='task-list' id='tasklist'></div>
+	</div>
+	<script src="app.js"></script>
+</body>
+</html>
