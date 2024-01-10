@@ -20,7 +20,8 @@ Sorting and filtering
 **Usage**
 
 1. Clone the repository
-2. run: 'node server.js' to access the project in your browser
+2. run 'npm install' to install necesarry dependancies
+3. run: 'node server.js' to access the project in your browser
 
 **Contributing**
 
